@@ -1,0 +1,5 @@
+<root>
+    <item name='android.os.Build.VERSION_CODES'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
